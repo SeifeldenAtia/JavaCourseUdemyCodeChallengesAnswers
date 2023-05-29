@@ -1,6 +1,6 @@
 # JavaCourseUdemyCodeChallengesAnswers
 
-MMy Java Programming Masterclass has been updated with Java 17 Challenges and their corresponding answers.
+My Java Programming Masterclass has been updated with Java 17 Challenges and their corresponding answers.
 
 Every chapter in the course contains challenges, and this repository contains my answers to each challenge.
 
